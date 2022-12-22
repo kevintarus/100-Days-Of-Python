@@ -1,3 +1,4 @@
+#CTRL + /   --comment selected lines 
 #print("print('Enter text')")    #Use single and double quotes
 
 #Print text on multiple lines
@@ -8,7 +9,7 @@
 #print("Hello" + " " + name)
 
 #Indentation error
- #print("Hello")   wont run since there is a space at the start of the code
+    #print("Hello")   wont run since there is a space at the start of the code
 
 
 #Prompt input from user
@@ -44,13 +45,6 @@ pet = input("What is the name of your pet?\n")
 join = city + " " + pet
 
 print("Your new band name is: " + join)
-
-
-
-
-
-
-
 
 
 

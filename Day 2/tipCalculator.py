@@ -60,13 +60,13 @@
 # print(type(8 // 3))
 #
 # result = 4 / 2
-# result /= 2
+# result /= 2         #result = result / 2
 #
 # print(result)
 
 #score = 0
-#score += 1   #score = score + 1;
-#score -= 1   #score = score - 1;
+#score += 1   #score = score + 1
+#score -= 1   #score = score - 1
 
 #You cannot print two datatypes at the same time
 #print("Your score is : " + score)    wrong

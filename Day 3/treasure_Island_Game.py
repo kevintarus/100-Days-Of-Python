@@ -64,7 +64,7 @@
 #LEAP YEAR EXERCISE
 #a year that is divisible by 4 with no remainder is a leap yr
 #if it is also divisible by 100 with no remainder, it is not a leap year
-#unless that sam year is divisible by 400 with no remainder, its is a leap yr
+#unless that same year is divisible by 400 with no remainder, its is a leap yr
 #USE FLOWCHARTS TO GET THE LOGIC STRAIGHT
 # print("LEAP YEAR CALCULATOR")
 # year = int(input("Enter a year : "))
@@ -217,7 +217,7 @@
 # print()
 #
 # name ='Kevin Kimutai Tarus'
-# print(name.count('i'))
+# print(name.count('i'))              --will output number 3 which is the index of the letter i in that name
 
 ##LOVE CALCULATOR
 # name1 = input("What is your name? ")
@@ -271,9 +271,9 @@ print('''  __         ##3 single quotes to print multiple lines
      /  /      `,\.  .'   "":'  /-"   .'       \__.'
     :  :         ,\""       ; .'    .'      .-""
    _J  ;         ; `.      /.'    _/    \.-"
-  /  "-:        /"--.b-..-'     .'       ;
+  /  "-:        /"--. -..-'     .'       ;
  /     /  ""-..'            .--'.-'/  ,  :
-:`.   :     / : bug         `-i" ,',_:  _ \
+:`.   :     / :             `-i" ,',_:  _ \
 :  \  '._  :__;             .'.-"; ; ; j `.l
  \  \          "-._         `"  :_/ :_/
   `.;\             "-._
